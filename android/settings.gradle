@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleTaskListApp'
+
+include ':app'
