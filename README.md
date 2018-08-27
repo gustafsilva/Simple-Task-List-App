@@ -11,8 +11,8 @@ The user can create tasks, mark or unmark as finished or remove it.
   1. Run an emulator or connect your cell phone to test.
   2.  Run the project using the `npm start` command on the terminal.
   3. Open another terminal, and run the following command:
-    -- For Android run: `react-native run-android`
-    -- For IOS run: `react-native run-ios` 
+    - For Android run: `react-native run-android`
+    - For IOS run: `react-native run-ios` 
 
 ### Technologies Used
   - [JavaScript](https://devdocs.io/javascript)
